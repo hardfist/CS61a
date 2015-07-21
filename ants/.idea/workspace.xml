@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55eaa7bf-0abc-443d-a3ba-f6c8c33c5452" name="Default" comment="" />
+    <ignored path="ants.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ants$Unittests_in_ants_grader.coverage" NAME="Unittests in ants_grader Coverage Results" MODIFIED="1431739814198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ants" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ants_grader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ants_grader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="12906" max-vertical-offset="17442">
+              <caret line="748" column="16" selection-start-line="748" selection-start-column="16" selection-end-line="748" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python/ants_grader.TestProblem9" pinned="false" current-in-tab="false">
+        <entry file="uml://Python/ants_grader.TestProblem9">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>ants_grader.TestProblem9</OriginalElement>
+              <nodes>
+                <node x="124.63095238095231" y="240.0">ants_grader.AntTest</node>
+                <node x="0.0" y="80.0">_abcoll.Callable</node>
+                <node x="117.13095238095234" y="160.0">unittest.case.TestCase</node>
+                <node x="177.0" y="80.0">object</node>
+                <node x="106.13095238095228" y="320.0">ants_grader.TestProblem9</node>
+                <node x="151.96428571428572" y="0.0">_abcoll.Hashable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="object" target="_abcoll.Hashable">
+                  <point x="0.0" y="-15.0" />
+                  <point x="213.5" y="55.0" />
+                  <point x="193.21428571428572" y="55.0" />
+                  <point x="-41.25" y="15.0" />
+                </edge>
+                <edge source="unittest.case.TestCase" target="_abcoll.Hashable">
+                  <point x="58.666666666666714" y="-15.0" />
+                  <point x="263.79761904761904" y="135.0" />
+                  <point x="260.5" y="135.0" />
+                  <point x="260.5" y="55.0" />
+                  <point x="275.7142857142857" y="55.0" />
+                  <point x="41.25" y="15.0" />
+                </edge>
+                <edge source="unittest.case.TestCase" target="_abcoll.Callable">
+                  <point x="-58.66666666666663" y="-15.0" />
+                  <point x="146.46428571428572" y="135.0" />
+                  <point x="78.5" y="135.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants_grader.TestProblem9" target="ants_grader.AntTest">
+                  <point x="2.8421709430404007E-14" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants_grader.AntTest" target="unittest.case.TestCase">
+                  <point x="2.8421709430404007E-14" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="unittest.case.TestCase" target="object">
+                  <point x="2.8421709430404007E-14" y="-15.0" />
+                  <point x="205.13095238095235" y="135.0" />
+                  <point x="213.5" y="135.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-235.0" y="156.5" />
+              <SelectedNodes>
+                <node>ants_grader.AntTest</node>
+              </SelectedNodes>
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ants.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15860735" vertical-offset="4562" max-vertical-offset="13050">
+              <caret line="261" column="15" selection-start-line="261" selection-start-column="15" selection-end-line="261" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python/ants.AntColony" pinned="false" current-in-tab="false">
+        <entry file="uml://Python/ants.AntColony">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>ants.AntColony</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">ants.AntColony</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-328.0" y="-3.5" />
+              <SelectedNodes>
+                <node>ants.AntColony</node>
+              </SelectedNodes>
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python/#/Users/yj/cmu/ants/ants.py" pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#/Users/yj/cmu/ants/ants.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#/Users/yj/cmu/ants/ants.py</OriginalElement>
+              <nodes>
+                <node x="675.4999999999999" y="595.0">dict</node>
+                <node x="173.0" y="260.0">ants.ShortThrower</node>
+                <node x="1062.0" y="495.0">object</node>
+                <node x="966.0" y="0.0">ants.Insect</node>
+                <node x="0.0" y="260.0">ants.ScubaThrower</node>
+                <node x="0.0" y="495.0">_abcoll.Iterator</node>
+                <node x="672.9764705882353" y="180.0">ants.AntRemover</node>
+                <node x="120.0" y="830.0">ants.Hive</node>
+                <node x="527.9999999999999" y="495.0">_abcoll.Sequence</node>
+                <node x="1027.75" y="80.0">ants.Bee</node>
+                <node x="920.75" y="80.0">ants.Ant</node>
+                <node x="635.4999999999999" y="675.0">ants.AssaultPlan</node>
+                <node x="258.0" y="750.0">ants.QueenPlace</node>
+                <node x="0.0" y="830.0">ants.Water</node>
+                <node x="671.0" y="260.0">ants.LongThrower</node>
+                <node x="13.0" y="340.0">ants.QueenAnt</node>
+                <node x="342.0" y="260.0">ants.StunThrower</node>
+                <node x="1126.9764705882353" y="180.0">ants.WallAnt</node>
+                <node x="1389.9764705882353" y="180.0">ants.BodyguardAnt</node>
+                <node x="901.9999999999999" y="495.0">_abcoll.Sized</node>
+                <node x="505.97647058823526" y="180.0">ants.HarvesterAnt</node>
+                <node x="440.0" y="750.0">ants.AntColony</node>
+                <node x="1039.5" y="415.0">_abcoll.Hashable</node>
+                <node x="59.75" y="750.0">ants.Place</node>
+                <node x="713.9999999999999" y="495.0">_abcoll.Container</node>
+                <node x="1259.9764705882353" y="180.0">ants.FireAnt</node>
+                <node x="833.9764705882353" y="180.0">ants.NinjaAnt</node>
+                <node x="973.9764705882353" y="180.0">ants.HungryAnt</node>
+                <node x="172.9999999999999" y="495.0">_abcoll.Iterable</node>
+                <node x="506.0" y="260.0">ants.SlowThrower</node>
+                <node x="346.9999999999999" y="495.0">_abcoll.Mapping</node>
+                <node x="347.97647058823526" y="180.0">ants.ThrowerAnt</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="ants.NinjaAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="893.9764705882353" y="160.0" />
+                  <point x="958.8125" y="160.0" />
+                  <point x="-5.4375" y="15.0" />
+                </edge>
+                <edge source="ants.ScubaThrower" target="ants.ThrowerAnt">
+                  <point x="0.0" y="-15.0" />
+                  <point x="76.5" y="230.0" />
+                  <point x="361.77647058823527" y="230.0" />
+                  <point x="-55.19999999999999" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Sized">
+                  <point x="10.875" y="-15.0" />
+                  <point x="715.3749999999999" y="555.0" />
+                  <point x="971.9999999999999" y="555.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.HungryAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1040.4764705882353" y="160.0" />
+                  <point x="969.6875" y="160.0" />
+                  <point x="5.4375" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Container">
+                  <point x="3.625" y="-15.0" />
+                  <point x="708.1249999999999" y="545.0" />
+                  <point x="797.9999999999999" y="545.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.QueenAnt" target="ants.ScubaThrower">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.AssaultPlan" target="dict">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.Ant" target="ants.Insect">
+                  <point x="0.0" y="-15.0" />
+                  <point x="964.25" y="55.0" />
+                  <point x="991.75" y="55.0" />
+                  <point x="-25.75" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Mapping">
+                  <point x="-10.875" y="-15.0" />
+                  <point x="693.6249999999999" y="555.0" />
+                  <point x="427.4999999999999" y="555.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.WallAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1183.4764705882353" y="150.0" />
+                  <point x="980.5625" y="150.0" />
+                  <point x="16.3125" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Iterable">
+                  <point x="-18.125" y="-15.0" />
+                  <point x="686.3749999999999" y="565.0" />
+                  <point x="249.9999999999999" y="565.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Sequence">
+                  <point x="-3.625" y="-15.0" />
+                  <point x="700.8749999999999" y="545.0" />
+                  <point x="610.9999999999999" y="545.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.StunThrower" target="ants.ThrowerAnt">
+                  <point x="0.0" y="-15.0" />
+                  <point x="414.0" y="240.0" />
+                  <point x="416.97647058823526" y="240.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.ShortThrower" target="ants.ThrowerAnt">
+                  <point x="0.0" y="-15.0" />
+                  <point x="247.5" y="240.0" />
+                  <point x="389.37647058823524" y="240.0" />
+                  <point x="-27.600000000000023" y="15.0" />
+                </edge>
+                <edge source="ants.AntRemover" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="743.4764705882353" y="150.0" />
+                  <point x="947.9375" y="150.0" />
+                  <point x="-16.3125" y="15.0" />
+                </edge>
+                <edge source="ants.SlowThrower" target="ants.ThrowerAnt">
+                  <point x="0.0" y="-15.0" />
+                  <point x="578.5" y="240.0" />
+                  <point x="444.5764705882352" y="240.0" />
+                  <point x="27.599999999999966" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Iterator">
+                  <point x="-25.375" y="-15.0" />
+                  <point x="679.1249999999999" y="575.0" />
+                  <point x="76.5" y="575.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="object" target="_abcoll.Hashable">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1098.5" y="470.0" />
+                  <point x="1080.75" y="470.0" />
+                  <point x="-41.25" y="15.0" />
+                </edge>
+                <edge source="ants.BodyguardAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1466.4764705882353" y="130.0" />
+                  <point x="1002.3125" y="130.0" />
+                  <point x="38.0625" y="15.0" />
+                </edge>
+                <edge source="ants.Hive" target="ants.Place">
+                  <point x="0.0" y="-15.0" />
+                  <point x="166.5" y="805.0" />
+                  <point x="132.5" y="805.0" />
+                  <point x="24.25" y="15.0" />
+                </edge>
+                <edge source="ants.Bee" target="ants.Insect">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1070.75" y="55.0" />
+                  <point x="1043.25" y="55.0" />
+                  <point x="25.75" y="15.0" />
+                </edge>
+                <edge source="ants.Water" target="ants.Place">
+                  <point x="0.0" y="-15.0" />
+                  <point x="50.0" y="805.0" />
+                  <point x="84.0" y="805.0" />
+                  <point x="-24.25" y="15.0" />
+                </edge>
+                <edge source="ants.FireAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1314.9764705882353" y="140.0" />
+                  <point x="991.4375" y="140.0" />
+                  <point x="27.1875" y="15.0" />
+                </edge>
+                <edge source="dict" target="_abcoll.Hashable">
+                  <point x="25.375" y="-15.0" />
+                  <point x="729.8749999999999" y="575.0" />
+                  <point x="1145.5" y="575.0" />
+                  <point x="1145.5" y="470.0" />
+                  <point x="1163.25" y="470.0" />
+                  <point x="41.25" y="15.0" />
+                </edge>
+                <edge source="ants.ThrowerAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="416.97647058823526" y="130.0" />
+                  <point x="926.1875" y="130.0" />
+                  <point x="-38.0625" y="15.0" />
+                </edge>
+                <edge source="dict" target="object">
+                  <point x="18.125" y="-15.0" />
+                  <point x="722.6249999999999" y="565.0" />
+                  <point x="1098.5" y="565.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="ants.LongThrower" target="ants.ThrowerAnt">
+                  <point x="0.0" y="-15.0" />
+                  <point x="744.5" y="230.0" />
+                  <point x="472.17647058823525" y="230.0" />
+                  <point x="55.19999999999999" y="15.0" />
+                </edge>
+                <edge source="ants.HarvesterAnt" target="ants.Ant">
+                  <point x="0.0" y="-15.0" />
+                  <point x="579.4764705882353" y="140.0" />
+                  <point x="937.0625" y="140.0" />
+                  <point x="-27.1875" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7352527191298783" x="316.41837800208845" y="228.41837800208845" />
+              <SelectedNodes>
+                <node>dict</node>
+                <node>ants.ShortThrower</node>
+                <node>object</node>
+                <node>ants.Insect</node>
+                <node>ants.ScubaThrower</node>
+                <node>_abcoll.Iterator</node>
+                <node>ants.AntRemover</node>
+                <node>ants.Hive</node>
+                <node>_abcoll.Sequence</node>
+                <node>ants.Bee</node>
+                <node>ants.Ant</node>
+                <node>ants.AssaultPlan</node>
+                <node>ants.QueenPlace</node>
+                <node>ants.Water</node>
+                <node>ants.LongThrower</node>
+                <node>ants.QueenAnt</node>
+                <node>ants.StunThrower</node>
+                <node>ants.WallAnt</node>
+                <node>ants.BodyguardAnt</node>
+                <node>_abcoll.Sized</node>
+                <node>ants.HarvesterAnt</node>
+                <node>ants.AntColony</node>
+                <node>_abcoll.Hashable</node>
+                <node>ants.Place</node>
+                <node>_abcoll.Container</node>
+                <node>ants.FireAnt</node>
+                <node>ants.NinjaAnt</node>
+                <node>ants.HungryAnt</node>
+                <node>_abcoll.Iterable</node>
+                <node>ants.SlowThrower</node>
+                <node>_abcoll.Mapping</node>
+                <node>ants.ThrowerAnt</node>
+              </SelectedNodes>
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ants.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ants" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scheme" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in ants_grader">
+    <configuration default="false" name="Unittests in ants_grader" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ants_grader.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ants" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ants_grader" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ants_grader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55eaa7bf-0abc-443d-a3ba-f6c8c33c5452" name="Default" comment="" />
+      <created>1431739774593</created>
+      <option name="number" value="Default" />
+      <updated>1431739774593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37631887" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33142036" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12013889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ants_grader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17442">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_pluginbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="642" max-vertical-offset="8622">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/yj/cmu/ants/ants.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/yj/cmu/ants/ants.py</OriginalElement>
+          <nodes>
+            <node x="675.4999999999999" y="595.0">dict</node>
+            <node x="173.0" y="260.0">ants.ShortThrower</node>
+            <node x="1062.0" y="495.0">object</node>
+            <node x="966.0" y="0.0">ants.Insect</node>
+            <node x="0.0" y="260.0">ants.ScubaThrower</node>
+            <node x="0.0" y="495.0">_abcoll.Iterator</node>
+            <node x="672.9764705882353" y="180.0">ants.AntRemover</node>
+            <node x="120.0" y="830.0">ants.Hive</node>
+            <node x="527.9999999999999" y="495.0">_abcoll.Sequence</node>
+            <node x="1027.75" y="80.0">ants.Bee</node>
+            <node x="920.75" y="80.0">ants.Ant</node>
+            <node x="635.4999999999999" y="675.0">ants.AssaultPlan</node>
+            <node x="258.0" y="750.0">ants.QueenPlace</node>
+            <node x="0.0" y="830.0">ants.Water</node>
+            <node x="671.0" y="260.0">ants.LongThrower</node>
+            <node x="13.0" y="340.0">ants.QueenAnt</node>
+            <node x="342.0" y="260.0">ants.StunThrower</node>
+            <node x="1126.9764705882353" y="180.0">ants.WallAnt</node>
+            <node x="1389.9764705882353" y="180.0">ants.BodyguardAnt</node>
+            <node x="901.9999999999999" y="495.0">_abcoll.Sized</node>
+            <node x="505.97647058823526" y="180.0">ants.HarvesterAnt</node>
+            <node x="440.0" y="750.0">ants.AntColony</node>
+            <node x="1039.5" y="415.0">_abcoll.Hashable</node>
+            <node x="59.75" y="750.0">ants.Place</node>
+            <node x="713.9999999999999" y="495.0">_abcoll.Container</node>
+            <node x="1259.9764705882353" y="180.0">ants.FireAnt</node>
+            <node x="833.9764705882353" y="180.0">ants.NinjaAnt</node>
+            <node x="973.9764705882353" y="180.0">ants.HungryAnt</node>
+            <node x="172.9999999999999" y="495.0">_abcoll.Iterable</node>
+            <node x="506.0" y="260.0">ants.SlowThrower</node>
+            <node x="346.9999999999999" y="495.0">_abcoll.Mapping</node>
+            <node x="347.97647058823526" y="180.0">ants.ThrowerAnt</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ants.NinjaAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="893.9764705882353" y="160.0" />
+              <point x="958.8125" y="160.0" />
+              <point x="-5.4375" y="15.0" />
+            </edge>
+            <edge source="ants.ScubaThrower" target="ants.ThrowerAnt">
+              <point x="0.0" y="-15.0" />
+              <point x="76.5" y="230.0" />
+              <point x="361.77647058823527" y="230.0" />
+              <point x="-55.19999999999999" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Sized">
+              <point x="10.875" y="-15.0" />
+              <point x="715.3749999999999" y="555.0" />
+              <point x="971.9999999999999" y="555.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.HungryAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="1040.4764705882353" y="160.0" />
+              <point x="969.6875" y="160.0" />
+              <point x="5.4375" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Container">
+              <point x="3.625" y="-15.0" />
+              <point x="708.1249999999999" y="545.0" />
+              <point x="797.9999999999999" y="545.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.QueenAnt" target="ants.ScubaThrower">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.AssaultPlan" target="dict">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.Ant" target="ants.Insect">
+              <point x="0.0" y="-15.0" />
+              <point x="964.25" y="55.0" />
+              <point x="991.75" y="55.0" />
+              <point x="-25.75" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Mapping">
+              <point x="-10.875" y="-15.0" />
+              <point x="693.6249999999999" y="555.0" />
+              <point x="427.4999999999999" y="555.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.WallAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="1183.4764705882353" y="150.0" />
+              <point x="980.5625" y="150.0" />
+              <point x="16.3125" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Iterable">
+              <point x="-18.125" y="-15.0" />
+              <point x="686.3749999999999" y="565.0" />
+              <point x="249.9999999999999" y="565.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Sequence">
+              <point x="-3.625" y="-15.0" />
+              <point x="700.8749999999999" y="545.0" />
+              <point x="610.9999999999999" y="545.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.StunThrower" target="ants.ThrowerAnt">
+              <point x="0.0" y="-15.0" />
+              <point x="414.0" y="240.0" />
+              <point x="416.97647058823526" y="240.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.ShortThrower" target="ants.ThrowerAnt">
+              <point x="0.0" y="-15.0" />
+              <point x="247.5" y="240.0" />
+              <point x="389.37647058823524" y="240.0" />
+              <point x="-27.600000000000023" y="15.0" />
+            </edge>
+            <edge source="ants.AntRemover" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="743.4764705882353" y="150.0" />
+              <point x="947.9375" y="150.0" />
+              <point x="-16.3125" y="15.0" />
+            </edge>
+            <edge source="ants.SlowThrower" target="ants.ThrowerAnt">
+              <point x="0.0" y="-15.0" />
+              <point x="578.5" y="240.0" />
+              <point x="444.5764705882352" y="240.0" />
+              <point x="27.599999999999966" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Iterator">
+              <point x="-25.375" y="-15.0" />
+              <point x="679.1249999999999" y="575.0" />
+              <point x="76.5" y="575.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="object" target="_abcoll.Hashable">
+              <point x="0.0" y="-15.0" />
+              <point x="1098.5" y="470.0" />
+              <point x="1080.75" y="470.0" />
+              <point x="-41.25" y="15.0" />
+            </edge>
+            <edge source="ants.BodyguardAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="1466.4764705882353" y="130.0" />
+              <point x="1002.3125" y="130.0" />
+              <point x="38.0625" y="15.0" />
+            </edge>
+            <edge source="ants.Hive" target="ants.Place">
+              <point x="0.0" y="-15.0" />
+              <point x="166.5" y="805.0" />
+              <point x="132.5" y="805.0" />
+              <point x="24.25" y="15.0" />
+            </edge>
+            <edge source="ants.Bee" target="ants.Insect">
+              <point x="0.0" y="-15.0" />
+              <point x="1070.75" y="55.0" />
+              <point x="1043.25" y="55.0" />
+              <point x="25.75" y="15.0" />
+            </edge>
+            <edge source="ants.Water" target="ants.Place">
+              <point x="0.0" y="-15.0" />
+              <point x="50.0" y="805.0" />
+              <point x="84.0" y="805.0" />
+              <point x="-24.25" y="15.0" />
+            </edge>
+            <edge source="ants.FireAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="1314.9764705882353" y="140.0" />
+              <point x="991.4375" y="140.0" />
+              <point x="27.1875" y="15.0" />
+            </edge>
+            <edge source="dict" target="_abcoll.Hashable">
+              <point x="25.375" y="-15.0" />
+              <point x="729.8749999999999" y="575.0" />
+              <point x="1145.5" y="575.0" />
+              <point x="1145.5" y="470.0" />
+              <point x="1163.25" y="470.0" />
+              <point x="41.25" y="15.0" />
+            </edge>
+            <edge source="ants.ThrowerAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="416.97647058823526" y="130.0" />
+              <point x="926.1875" y="130.0" />
+              <point x="-38.0625" y="15.0" />
+            </edge>
+            <edge source="dict" target="object">
+              <point x="18.125" y="-15.0" />
+              <point x="722.6249999999999" y="565.0" />
+              <point x="1098.5" y="565.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants.LongThrower" target="ants.ThrowerAnt">
+              <point x="0.0" y="-15.0" />
+              <point x="744.5" y="230.0" />
+              <point x="472.17647058823525" y="230.0" />
+              <point x="55.19999999999999" y="15.0" />
+            </edge>
+            <edge source="ants.HarvesterAnt" target="ants.Ant">
+              <point x="0.0" y="-15.0" />
+              <point x="579.4764705882353" y="140.0" />
+              <point x="937.0625" y="140.0" />
+              <point x="-27.1875" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7352527191298783" x="316.41837800208845" y="228.41837800208845" />
+          <SelectedNodes>
+            <node>dict</node>
+            <node>ants.ShortThrower</node>
+            <node>object</node>
+            <node>ants.Insect</node>
+            <node>ants.ScubaThrower</node>
+            <node>_abcoll.Iterator</node>
+            <node>ants.AntRemover</node>
+            <node>ants.Hive</node>
+            <node>_abcoll.Sequence</node>
+            <node>ants.Bee</node>
+            <node>ants.Ant</node>
+            <node>ants.AssaultPlan</node>
+            <node>ants.QueenPlace</node>
+            <node>ants.Water</node>
+            <node>ants.LongThrower</node>
+            <node>ants.QueenAnt</node>
+            <node>ants.StunThrower</node>
+            <node>ants.WallAnt</node>
+            <node>ants.BodyguardAnt</node>
+            <node>_abcoll.Sized</node>
+            <node>ants.HarvesterAnt</node>
+            <node>ants.AntColony</node>
+            <node>_abcoll.Hashable</node>
+            <node>ants.Place</node>
+            <node>_abcoll.Container</node>
+            <node>ants.FireAnt</node>
+            <node>ants.NinjaAnt</node>
+            <node>ants.HungryAnt</node>
+            <node>_abcoll.Iterable</node>
+            <node>ants.SlowThrower</node>
+            <node>_abcoll.Mapping</node>
+            <node>ants.ThrowerAnt</node>
+          </SelectedNodes>
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/ants.AntColony">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>ants.AntColony</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">ants.AntColony</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-328.0" y="-3.5" />
+          <SelectedNodes>
+            <node>ants.AntColony</node>
+          </SelectedNodes>
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/ants_grader.TestProblem9">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>ants_grader.TestProblem9</OriginalElement>
+          <nodes>
+            <node x="124.63095238095231" y="240.0">ants_grader.AntTest</node>
+            <node x="0.0" y="80.0">_abcoll.Callable</node>
+            <node x="117.13095238095234" y="160.0">unittest.case.TestCase</node>
+            <node x="177.0" y="80.0">object</node>
+            <node x="106.13095238095228" y="320.0">ants_grader.TestProblem9</node>
+            <node x="151.96428571428572" y="0.0">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="object" target="_abcoll.Hashable">
+              <point x="0.0" y="-15.0" />
+              <point x="213.5" y="55.0" />
+              <point x="193.21428571428572" y="55.0" />
+              <point x="-41.25" y="15.0" />
+            </edge>
+            <edge source="unittest.case.TestCase" target="_abcoll.Hashable">
+              <point x="58.666666666666714" y="-15.0" />
+              <point x="263.79761904761904" y="135.0" />
+              <point x="260.5" y="135.0" />
+              <point x="260.5" y="55.0" />
+              <point x="275.7142857142857" y="55.0" />
+              <point x="41.25" y="15.0" />
+            </edge>
+            <edge source="unittest.case.TestCase" target="_abcoll.Callable">
+              <point x="-58.66666666666663" y="-15.0" />
+              <point x="146.46428571428572" y="135.0" />
+              <point x="78.5" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants_grader.TestProblem9" target="ants_grader.AntTest">
+              <point x="2.8421709430404007E-14" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="ants_grader.AntTest" target="unittest.case.TestCase">
+              <point x="2.8421709430404007E-14" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="unittest.case.TestCase" target="object">
+              <point x="2.8421709430404007E-14" y="-15.0" />
+              <point x="205.13095238095235" y="135.0" />
+              <point x="213.5" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-235.0" y="156.5" />
+          <SelectedNodes>
+            <node>ants_grader.AntTest</node>
+          </SelectedNodes>
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ants_grader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12906" max-vertical-offset="17442">
+          <caret line="748" column="16" selection-start-line="748" selection-start-column="16" selection-end-line="748" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15860735" vertical-offset="4562" max-vertical-offset="13050">
+          <caret line="261" column="15" selection-start-line="261" selection-start-column="15" selection-end-line="261" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
